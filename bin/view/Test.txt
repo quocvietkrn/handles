@@ -1,0 +1,4 @@
+Name;Address;Money
+Viet;Da Nang;1000.0
+Nguyen;Da Nang;1200.0
+Ha;Da Nang;1300.0
